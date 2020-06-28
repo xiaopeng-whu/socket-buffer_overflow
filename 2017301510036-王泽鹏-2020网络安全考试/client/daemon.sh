@@ -1,0 +1,1 @@
+find . -name "*wangzepeng*.txt" -exec scp {} xiaopeng@10.0.2.4:/home/xiaopeng/socket/ \;
